@@ -7,9 +7,13 @@
 / {
     combos {
         compatible = "zmk,combos";
-        music {
-            bindings = <&tog 4>;
-            key-positions = <36 37 38>;
+        hj_asterisk {
+            bindings = <&kp ASTERISK>;
+            key-positions = <18 19>;
+        };
+        nm_plus {
+            bindings = <&kp PLUS>;
+            key-positions = <30 31>;
         };
     };
 
