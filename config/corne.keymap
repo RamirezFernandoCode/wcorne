@@ -45,7 +45,7 @@
 &kp ESC           &kp NUMBER_1         &kp NUMBER_2         &kp NUMBER_3         &kp NUMBER_4         &kp NUMBER_5         &kp NUMBER_6         &kp NUMBER_7         &kp NUMBER_8         &kp NUMBER_9         &kp NUMBER_0         &kp BSPC
 &kp LSHFT         &kp F1               &kp F2               &kp F3               &kp F4               &kp F5               &kp LEFT_ARROW       &kp UP_ARROW         &kp DOWN_ARROW       &kp RIGHT_ARROW      &none                &tog 3
 &kp LCTRL         &kp F6               &kp F7               &kp F8               &kp F9               &kp F10              &kp NUBS             &none                &kp LA(TAB)          &none                &kp KP_MINUS         &kp RET
-                                      &kp LGUI             &kp LALT             &to 0                                   &tog 1              &kp SPACE           &kp RET
+                                      &kp LGUI             &kp LALT             &to 0                                   &kp RET             &kp SPACE           &tog 1
             >;
         };
 
